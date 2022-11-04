@@ -1,0 +1,12 @@
+Spajamo mosquitto konzolu sa nasom java aplikacijom
+
+** Cilj / zadatak - kroz nasu aplikaciju objavljivati  poruku na konzolu mosquitta
+    (nasa aplikacija ce bit klient, mosquitto konzola ce biti broker)
+
+Preconditions:
+    - Create Mavean Java project (x)
+    - Install Mosquitto (x)
+    - Install Eclipse Paho (x)
+    - Write Java Client (todo)
+    - Ostale spec. pronaci na moodle vjezba 2.
+
